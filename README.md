@@ -1,0 +1,2 @@
+# Utilizing-the-nyc-violations-Dataset-Carrying-Out-The-Exploratory-Data-Analysis-Project
+Using the nyc-violations dataset, I carried out the Exploratory Data Analysis Project with the goal of creating an outstanding and incredible report using Jupyter Notebook that would highlight the insights discovered inside the dataset. As a result, the project will include significant visualizations that demonstrate patterns and provide insights.
